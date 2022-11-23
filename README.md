@@ -9,5 +9,4 @@ Foi utilizado HTML5 para construir o esqueleto do formulário, posteriormente fo
 Estou iniciando agora no mundo da programação, eu ficaria feliz com feedbacks construtivos que me ajudem a melhorar profissionalmente para que
 eu possa crescer e me tornar um DEV, que é o meu grande sonho. <br>
 Contate-me: <br>
-linkedin: https://www.linkedin.com/in/leonardo-de-jesus-440576188/ <br>
 E-mail: leonardojesusband@gmail.com
